@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "A nodejs based game about traversing a dungeon, ultimately saving the prince (or princess, to your choosing)",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "admin-lte": "^2.3.11"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.1",
