@@ -1,0 +1,36 @@
+{
+  "name": "generic-adventure-v0.1",
+  "version": "0.1.0",
+  "description": "A nodejs based game about traversing a dungeon, ultimately saving the prince (or princess, to your choosing)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^2.3.0",
+    "gulp-connect": "^5.0.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-uglifycss": "^1.0.6",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^4.3.11",
+    "jquery": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumaheiyama/generic-adventure.git"
+  },
+  "keywords": [
+    "adventure",
+    "dungeon",
+    "crawler"
+  ],
+  "author": "kumaheiyama <bjorn.fredberg@gmail.com> (http://bjorn.fredberg.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumaheiyama/generic-adventure/issues"
+  },
+  "homepage": "https://github.com/kumaheiyama/generic-adventure#readme"
+}
